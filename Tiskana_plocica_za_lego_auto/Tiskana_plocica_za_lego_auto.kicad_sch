@@ -9916,6 +9916,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "  VISHAY "
+			(at 41.91 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ManufacturersPartNumber" "293D107X9010C2TE3"
+			(at 41.91 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8b379417-e8bf-4f79-943d-431dfca1c111")
 		)
@@ -11296,6 +11314,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "  muRata "
+			(at 49.53 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ManufacturersPartNumber" "GRM31C5C1H104JA01L"
+			(at 49.53 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ca64cfd0-06a9-432d-ac0a-525c122dfe4c")
 		)
@@ -11814,7 +11850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical_SMD_Pin1Left"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical_SMD_Pin1Right"
 			(at 203.2 105.41 0)
 			(effects
 				(font
